@@ -1,4 +1,4 @@
-#copyright (c) 2020 HenryFleming
+#Copyright (c) 2020 HenryFleming
 #see LICENSE for more
 
 def parse_line(cmds,line):
